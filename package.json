@@ -72,8 +72,8 @@
     "bluebird": "^3.5.3",	
     "element-ui": "^2.5.4",	
     "msgpack5": "^4.2.1",
-    "vue": "^2.5.16",
-    "axios": "^0.18.0",
+    "vue": "^3.0.0",
+    "axios": "^0.30.0",
     "vue-electron": "^1.0.6",
     "vue-progressbar": "^0.7.5",
     "vue-router": "^3.0.1",
@@ -81,7 +81,7 @@
     "vuex-electron": "^1.0.0"
   },
   "devDependencies": {
-    "ajv": "^6.5.0",
+    "ajv": "^7.0.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-plugin-transform-runtime": "^6.23.0",
@@ -96,7 +96,7 @@
     "css-loader": "^0.28.11",
     "del": "^3.0.0",
     "devtron": "^1.4.0",
-    "electron": "^2.0.4",
+    "electron": "^22.3.25",
     "electron-debug": "^1.5.0",
     "electron-devtools-installer": "^2.2.4",
     "electron-builder": "^20.19.2",
@@ -120,10 +120,10 @@
     "vue-html-loader": "^1.2.4",
     "vue-loader": "^15.2.4",
     "vue-style-loader": "^4.1.0",
-    "vue-template-compiler": "^2.5.16",
+    "vue-template-compiler": "^2.7.16",
     "webpack-cli": "^3.0.8",
     "webpack": "^4.15.1",
-    "webpack-dev-server": "^3.1.4",
+    "webpack-dev-server": "^5.2.1",
     "webpack-hot-middleware": "^2.22.2",
     "webpack-merge": "^4.1.3"
   }
